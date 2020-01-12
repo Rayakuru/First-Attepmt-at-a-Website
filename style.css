@@ -1,5 +1,17 @@
 
 .topnav {
-	padding: 5px 1px 5px 1px
+	padding: 4px;
 
+}
+
+.mapofeverything{
+    height: 700px; 
+    width: 1300px;
+    background-size: cover;
+    background-image: url('./images/map_empty.png');
+
+}
+
+.mapofeverything:hover{
+	background-image: url('./images/map_americas.png');
 }
