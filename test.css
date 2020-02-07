@@ -6,7 +6,7 @@
 	border-radius: 14px;
 	position: absolute;
 	left: 40%;
-	top: 50%;
+	top: 20%;
 }
 .original .sub1{
 	background-color: gray;
@@ -29,6 +29,7 @@ background-color: gray;
 	bottom: 50%;
 }
 .original .sub2:hover{
+	background-size: cover;
 	background-image: url(./images/Opuntia.jpg); 
 }
 .original .sub3{
@@ -51,5 +52,11 @@ background-color: gray;
 	bottom:50%; 
 }
 .original .sub4:hover{
-background-color: green;
+background-image: cover;
+background-image: url(./images/Opuntia.jpg);
+}
+
+.testmap .subtestmap2:hover{
+	image
+	color: green;
 }
